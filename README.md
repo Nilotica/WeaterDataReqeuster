@@ -1,1 +1,1 @@
-#BaiduMap
+#Using Baidu API.
